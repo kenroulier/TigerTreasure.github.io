@@ -1,0 +1,65 @@
+/* CSS here */
+
+.small {
+  font-size: xx-small;
+}
+.larger {
+  font-size: larger;
+}
+.point {
+  font-size: 24pt;
+}
+.percent {
+  font-size: 400%;
+}
+/* header definitons */
+h1 {
+  color: orange;
+  font-weight: bold;
+  justify-content: center;
+}
+
+h2 {
+  color: orange;
+  font-weight: bold;
+  justify-content: center
+}
+
+/* Positional alignment definitions */
+justify-content: center; /* Pack items around the center */
+justify-content: start; /* Pack items from the start */
+justify-content: end; /* Pack items from the end */
+justify-content: flex-start; /* Pack flex items from the start */
+justify-content: flex-end; /* Pack flex items from the end */
+justify-content: left; /* Pack items from the left */
+justify-content: right; /* Pack items from the right */
+
+/* Baseline alignment */
+/* justify-content does not take baseline values */
+
+/* Normal alignment */
+justify-content: normal;
+
+/* Distributed alignment */
+justify-content: space-between; /* Distribute items evenly
+                                   The first item is flush with the start,
+                                   the last is flush with the end */
+justify-content: space-around; /* Distribute items evenly
+                                   Start and end gaps are half the size of the space
+                                   between each item */
+justify-content: space-evenly; /* Distribute items evenly
+                                   Start, in-between, and end gaps have equal sizes */
+justify-content: stretch; /* Distribute items evenly
+                                   Stretch 'auto'-sized items to fit
+                                   the container */
+
+/* Overflow alignment */
+justify-content: safe center;
+justify-content: unsafe center;
+
+/* Global values */
+justify-content: inherit;
+justify-content: initial;
+justify-content: revert;
+justify-content: revert-layer;
+justify-content: unset;

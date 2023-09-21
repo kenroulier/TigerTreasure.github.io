@@ -1,2 +1,2 @@
 const myHeading = document.querySelector("h1");
-myHeading.textContent = "Hello world!";
+myHeading.textContent = "Welcome to Tiger Treasure Hunt";
