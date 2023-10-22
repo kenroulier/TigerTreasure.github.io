@@ -109,6 +109,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Team Contributors <a name="teamcontributors"></a>
 
 **CPSC 8710 - Team-Saideep-Kyathi-Ken**
+
 **Due Date: October 23, 2023**
 
 **Team members:**
