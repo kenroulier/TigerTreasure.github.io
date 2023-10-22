@@ -10,7 +10,9 @@
   <p align="center">
     <br />
     **CPSC 8710 – Team-Saideep-Kyathi-Ken**  
+    
     **Due Date: October 23, 2023 **  
+    
     Tiger Treasure Hunt is a fun team online game where the players join a video conference (e.g., Zoom or Teams) to play a fun question and answer game in order to solve a series of clues that leads the team to a treasure.
     <br />
     <a href="https://github.com/kenroulier/TigerTreasure.github.io">Play Tiger Treasure Hunt</a>
