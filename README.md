@@ -20,18 +20,10 @@ Tiger Treasure Hunt is a fun team online game where the players join a video con
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About Tiger Treasure Hunt</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-tiger-treasure-hunt">About Tiger Treasure Hunt</a></li> 
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#installation">Installation</a></li>
     <li><a href="#howtoplay">How to Play</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -42,7 +34,7 @@ Tiger Treasure Hunt is a fun team online game where the players join a video con
 
 
 <!-- ABOUT THE PROJECT -->
-## About Tiger Treasure Hunt
+## About Tiger Treasure Hunt <a name="about-tiger-treasure-hunt"></a>
 
 The Tiger Treasure Hunt is an online game where the players operate as a team to locate the treasure. The Team lead enters all the answers to solve the puzzles that lead to the next adventure.  Throughout the adventure, morse code will be presented for the team to solve – just to add another challenge! After solving each task, the team will earn another clue to find the treasure.  After solving all the puzzles, the team will have uncovered the treasure and is declared the Tiger Treasure Hunt Winners.
 
@@ -50,7 +42,7 @@ The Tiger Treasure Hunt is an online game where the players operate as a team to
 
 
 
-### Built With
+### Built With 
 
 * [![React][React.js]][React-url]
 
@@ -119,13 +111,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Team Members -->
-## Team Contributors
+## Team Contributors <a name="teamcontributors"></a>
 * Kyathi rao  Kantheti
 * Saideep Chandrashekar Kondur
 * Ken Roulier
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
