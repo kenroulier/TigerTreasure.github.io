@@ -2,16 +2,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/kenroulier/TigerTreasure.github.io">
-    <img src="images/treshunt.jpeg" alt="Logo" width="240" height="135">
+    <img src="images/treshunt.jpeg" alt="Logo" width="480" height="270">
   </a>
 
 <h3 align="center">Tiger Treasure Hunt</h3>
 
   <p align="center">
-    About Tiger Treasure Hunt
+    Tiger Treasure Hunt Introduction
     <br />
-The Tiger Treasure Hunt is an online game where the players operate as a team to locate the treasure. Where the Team lead enters the answers to solve the puzzles that lead to the next adventure.  
-Throughout the adventure, morse code will be presented for the team to solve – just to add another challenge! After solving each task, the team will earn another clue to find the treasure.  After solving all the puzzles, the team will have uncovered the treasure and is declared the Tiger Treasure Hunt Winners.
+Tiger Treasure Hunt is a team online game where the players join a video conference (e.g., Zoom) to play a fun question and answer game in order to solve a series of clues that leads the team to a treasure.
     <br />
     <a href="https://github.com/kenroulier/TigerTreasure.github.io">View Demo</a>
   </p>
@@ -34,7 +33,7 @@ Throughout the adventure, morse code will be presented for the team to solve –
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#howtoplay">How to Play</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -45,9 +44,8 @@ Throughout the adventure, morse code will be presented for the team to solve –
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: 
+The Tiger Treasure Hunt is an online game where the players operate as a team to locate the treasure. The Team lead enters all the answers to solve the puzzles that lead to the next adventure.  
+Throughout the adventure, morse code will be presented for the team to solve – just to add another challenge! After solving each task, the team will earn another clue to find the treasure.  After solving all the puzzles, the team will have uncovered the treasure and is declared the Tiger Treasure Hunt Winners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,7 +53,6 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -88,11 +85,20 @@ To get a local copy up and running follow these simple example steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- USAGE EXAMPLES -->
-## Usage
+## How to Play
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Schedule a conference video room  (e.g., Zoom or Teams)  for you and a group of friends to play Tiger Treasure Hunt.
+2. Join the video conference at the scheduled timte to play.
+3. The team votes on a Team Leader that will control all of the online play.
+4. With the highly popular and revered Team Leader installed, the Team Leader then shares their screen with the rest of the virtual team.
+5. The Team Leader then launches the Tiger Treasure Hunt game by ...
+6. The game begins by showing a series of locations you must visit and answer a question related to our beloved Clemson Tigers
+7. The game only allows the Team Leader to select the next sequential location/clue on the map that is not solved, beginning with clue 1.
+8. Once the clue is selected, a question is prompted for the team to discuss and the Team Leader to answer on behalf of the team.  Don't forget to blame the Team Leader should you get the answer wrong.  After all, they entered the answer.
+9. As the team successfully answers the questions and solves the clue, they can move to the next sequential location/clue until they reach the end and win the game!
+10. Watch out! Throughout the game you will radomly be prompted to solve a morse code clue.  Make sure you study up on morse code!!!
+11. Have fun, it's a game!!!!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,7 +113,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* [Treasure Hunt Map](https://www.google.com/url?sa=i&url=https%3A%2F%2Fescapetrails.co%2F5-steps-to-making-a-fun-treasure-hunt%2F&psig=AOvVaw1wrdwGNjpaetxlDkIT-lC3&ust=1698077742486000&source=images&cd=vfe&opi=89978449&ved=0CBMQ3YkBahcKEwig8P3WhoqCAxUAAAAAHQAAAAAQBg)
 * []()
 * []()
 
