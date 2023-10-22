@@ -107,11 +107,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- Team Members -->
 ## Team Contributors <a name="teamcontributors"></a>
+**CPSC 8710 – Team-Saideep-Kyathi-Ken  
+Due Date: October 23, 2023
+**    
+
 * Kyathi rao  Kantheti - api’s for games and REACT code
 * Saideep Chandrashekar Kondur - flow of game, original in design in python and HTML
 * Ken Roulier - GitHub Pages, Repository, prototype HTML, Documentation, Schedule
 
-* **Team meeting schedule:**
+**Team meeting schedule:**
 * 9/7/23  3-3:30pm Team Meeting Room 
 * 9/13/23  3-3:45 - Team Meeting 
 * 9/20/23  3-3:45 – Team Meeting 
