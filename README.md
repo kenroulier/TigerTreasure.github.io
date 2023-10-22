@@ -9,7 +9,7 @@
 
   <p align="center">
     <br />
-Tiger Treasure Hunt is a fun team online game where the players join a video conference (e.g., Zoom) to play a fun question and answer game in order to solve a series of clues that leads the team to a treasure.
+Tiger Treasure Hunt is a fun team online game where the players join a video conference (e.g., Zoom or Teams) to play a fun question and answer game in order to solve a series of clues that leads the team to a treasure.
     <br />
     <a href="https://github.com/kenroulier/TigerTreasure.github.io">View Demo</a>
   </p>
@@ -21,7 +21,7 @@ Tiger Treasure Hunt is a fun team online game where the players join a video con
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About Tiger Treasure Hunt</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -41,7 +41,7 @@ Tiger Treasure Hunt is a fun team online game where the players join a video con
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Tiger Treasure Hunt
 
 The Tiger Treasure Hunt is an online game where the players operate as a team to locate the treasure. The Team lead enters all the answers to solve the puzzles that lead to the next adventure.  Throughout the adventure, morse code will be presented for the team to solve – just to add another challenge! After solving each task, the team will earn another clue to find the treasure.  After solving all the puzzles, the team will have uncovered the treasure and is declared the Tiger Treasure Hunt Winners.
 
