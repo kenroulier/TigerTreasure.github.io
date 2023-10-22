@@ -18,7 +18,7 @@ Tiger Treasure Hunt is a fun team online game where the players join a video con
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Table of Contents</summary> <a name="readme-top"></a>
   <ol>
     <li><a href="#about-tiger-treasure-hunt">About Tiger Treasure Hunt</a></li> 
     <li><a href="#built-with">Built With</a></li>
@@ -42,7 +42,7 @@ The Tiger Treasure Hunt is an online game where the players operate as a team to
 
 
 
-### Built With 
+### Built With <a name="built-with"></a>
 
 * [![React][React.js]][React-url]
 
@@ -51,13 +51,13 @@ The Tiger Treasure Hunt is an online game where the players operate as a team to
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started <a name="getting-started"></a>
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 
-### Installation
+### Installation <a name="installation"></a>
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -77,7 +77,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 <!-- Game Play Instructions -->
-## How to Play
+## How to Play <a name="howtoplay"></a>
 
 1. Schedule a conference video room  (e.g., Zoom or Teams)  for you and a group of friends to play Tiger Treasure Hunt.
 2. Join the video conference at the scheduled timte to play.
@@ -95,14 +95,14 @@ To get a local copy up and running follow these simple example steps.
 
 
 <!-- LICENSE -->
-## License
+## License <a name="license"></a>
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Acknowledgments <a name="acknowledgements"></a>
 
 * [Treasure Hunt Map](https://www.google.com/url?sa=i&url=https%3A%2F%2Fescapetrails.co%2F5-steps-to-making-a-fun-treasure-hunt%2F&psig=AOvVaw1wrdwGNjpaetxlDkIT-lC3&ust=1698077742486000&source=images&cd=vfe&opi=89978449&ved=0CBMQ3YkBahcKEwig8P3WhoqCAxUAAAAAHQAAAAAQBg)
 * []()
