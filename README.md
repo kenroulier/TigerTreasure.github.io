@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<br />
+<br /> <a name="readme-top"></a>
 <div align="center">
   <a href="https://github.com/kenroulier/TigerTreasure.github.io">
     <img src="images/treshunt.jpeg" alt="Logo" width="480" height="270">
@@ -18,7 +18,7 @@ Tiger Treasure Hunt is a fun team online game where the players join a video con
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary> <a name="readme-top"></a>
+  <summary>Table of Contents</summary> 
   <ol>
     <li><a href="#about-tiger-treasure-hunt">About Tiger Treasure Hunt</a></li> 
     <li><a href="#built-with">Built With</a></li>
