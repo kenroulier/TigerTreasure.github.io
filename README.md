@@ -11,7 +11,7 @@
     <br />
 Tiger Treasure Hunt is a fun team online game where the players join a video conference (e.g., Zoom or Teams) to play a fun question and answer game in order to solve a series of clues that leads the team to a treasure.
     <br />
-    <a href="https://github.com/kenroulier/TigerTreasure.github.io">View Demo</a>
+    <a href="https://github.com/kenroulier/TigerTreasure.github.io">Play Tiger Treasure Hunt</a>
   </p>
 </div>
 
@@ -35,6 +35,7 @@ Tiger Treasure Hunt is a fun team online game where the players join a video con
     <li><a href="#howtoplay">How to Play</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#teamcontributors">Team Contributors</a></li>
   </ol>
 </details>
 
@@ -83,7 +84,7 @@ To get a local copy up and running follow these simple example steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- USAGE EXAMPLES -->
+<!-- Game Play Instructions -->
 ## How to Play
 
 1. Schedule a conference video room  (e.g., Zoom or Teams)  for you and a group of friends to play Tiger Treasure Hunt.
@@ -117,6 +118,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Team Members -->
+## Team Contributors
+* Kyathi rao  Kantheti
+* Saideep Chandrashekar Kondur
+* Ken Roulier
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
