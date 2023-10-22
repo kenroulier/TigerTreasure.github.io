@@ -107,9 +107,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- Team Members -->
 ## Team Contributors <a name="teamcontributors"></a>
-**CPSC 8710 – Team-Saideep-Kyathi-Ken  
-Due Date: October 23, 2023
-**    
+
+### CPSC 8710 – Team-Saideep-Kyathi-Ken
+### Due Date: October 23, 2023    
 
 * Kyathi rao  Kantheti - api’s for games and REACT code
 * Saideep Chandrashekar Kondur - flow of game, original in design in python and HTML
