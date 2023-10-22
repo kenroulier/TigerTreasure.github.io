@@ -1,4 +1,30 @@
-# TigerTreasure.github.io
+<# TigerTreasure.github.io>
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/kenroulier/TigerTreasure.github.io">
+    <img src="images/treshunt.jpeg" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Tiger Treasure Hunt</h3>
+
+  <p align="center">
+    project_description
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
+</div>
+![image](https://github.com/kenroulier/TigerTreasure.github.io/assets/144135842/7b92f8fc-99e5-47a6-a669-13117354d3d8)
+
 
 **Tiger Treasure Hunt Overview: **
 The Tiger Treasure Hunt is an online game where the players operate as a team to locate the treasure. Where the Team lead enters the answers to solve the puzzles that lead to the next adventure.  
