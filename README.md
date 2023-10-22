@@ -9,7 +9,9 @@
 
   <p align="center">
     <br />
-Tiger Treasure Hunt is a fun team online game where the players join a video conference (e.g., Zoom or Teams) to play a fun question and answer game in order to solve a series of clues that leads the team to a treasure.
+    **CPSC 8710 – Team-Saideep-Kyathi-Ken 
+    Due Date: October 23, 2023 **
+    Tiger Treasure Hunt is a fun team online game where the players join a video conference (e.g., Zoom or Teams) to play a fun question and answer game in order to solve a series of clues that leads the team to a treasure.
     <br />
     <a href="https://github.com/kenroulier/TigerTreasure.github.io">Play Tiger Treasure Hunt</a>
   </p>
@@ -28,12 +30,12 @@ Tiger Treasure Hunt is a fun team online game where the players join a video con
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#teamcontributors">Team Contributors</a></li>
+    <li><a href="#reflections">Team Reflections</a></li>
   </ol>
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE GAME -->
 ## About Tiger Treasure Hunt <a name="about-tiger-treasure-hunt"></a>
 
 The Tiger Treasure Hunt is an online game where the players operate as a team to locate the treasure. The Team lead enters all the answers to solve the puzzles that lead to the next adventure.  Throughout the adventure, morse code will be presented for the team to solve – just to add another challenge! After solving each task, the team will earn another clue to find the treasure.  After solving all the puzzles, the team will have uncovered the treasure and is declared the Tiger Treasure Hunt Winners.
@@ -41,21 +43,20 @@ The Tiger Treasure Hunt is an online game where the players operate as a team to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ### Built With <a name="built-with"></a>
+
+Tiger Treasure Hunt is written in REACT and deployed via the [Tiger](https://github.com/kenroulier/TigerTreasure.github.io) Public GitHub Repository using GitHub Pages.  Prototypes where done using standard HTML/Index/CSS and Javascript to call external public APIs.  In the end it was determined to be easier to use REACT to accomplish the same results.
 
 * [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started <a name="getting-started"></a>
 
-This is an example of how you may give instructions on setting up your project locally.
+If you would prefer to play this game from your own device locally.  
 To get a local copy up and running follow these simple example steps.
-
 
 ### Installation <a name="installation"></a>
 
@@ -64,11 +65,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/kenroulier/TigerTreasure.github.io.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
+3. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -112,12 +109,28 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- Team Members -->
 ## Team Contributors <a name="teamcontributors"></a>
-* Kyathi rao  Kantheti
-* Saideep Chandrashekar Kondur
-* Ken Roulier
+* Kyathi rao  Kantheti - api’s for games and REACT code
+* Saideep Chandrashekar Kondur - flow of game, original in design in python and HTML
+* Ken Roulier - GitHub Pages, Repository, prototype HTML, Documentation, Schedule
+
+* **Team meeting schedule:**
+* 9/7/23  3-3:30pm Team Meeting Room 
+* 9/13/23  3-3:45 - Team Meeting 
+* 9/20/23  3-3:45 – Team Meeting 
+* 9/27/23  3:45-4:15 - Team Meeting 
+* 10/4/23  3:45-4:15 – Team Meeting 
+* 10/11/23  4:30-5:00 - Team Meeting 
+* 10/20/23  4:30-5:00 - Team Meeting 
+* 10/23/23 - Project Due Monday at midnight 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Team Members -->
+## Team Reflections <a name="reflections"></a>
+
+Write a short reflection (around 500 words) on the design and development process. Discuss challenges faced, what worked, what didn't, and lessons learned
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
